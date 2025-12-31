@@ -1,0 +1,6 @@
+{
+  "name": "HACS Test Integration",
+  "content_in_root": false,
+  "domain": "hacs_test",
+  "render_readme": true
+}

@@ -1,0 +1,2 @@
+# hacs-test-repo
+TEST

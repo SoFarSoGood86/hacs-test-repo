@@ -1,0 +1,10 @@
+{
+  "domain": "veichi_ac",
+  "name": "VEICHI AC – Industrial Terrain",
+  "version": "1.3.0",
+  "documentation": "https://github.com/SoFarSoGood86/veichi_ac",
+  "requirements": ["pymodbus>=3.5.2"],
+  "codeowners": ["@SoFarSoGood86"],
+  "config_flow": true,
+  "iot_class": "local_polling"
+}

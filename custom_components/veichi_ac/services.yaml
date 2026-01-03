@@ -1,0 +1,8 @@
+start:
+  name: Démarrage variateur
+stop:
+  name: Arrêt variateur
+emergency_stop:
+  name: Arrêt d'urgence
+ramp_safe:
+  name: Rampe sécurisée

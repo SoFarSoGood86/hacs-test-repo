@@ -1,15 +1,20 @@
-<p align="center">
-  <img src="images/icon.png" width="120">
-</p>
+# VEICHI AC – v1.3 Terrain Industriel
 
-<h1 align="center">HACS Test Integration</h1>
+Support AC70 / AC10 / AC300  
+Communication RS485 via Waveshare TCP → RTU
 
-Dépôt officiel de test **validé HACS** pour Home Assistant.
+## Sécurité
+- Machine d'états industrielle
+- Double watchdog (Modbus + logique)
+- SAFE_STOP prioritaire
+- Journal sécurité horodaté
+- Compatible terrain machine
 
-## ✅ Fonctionnalités
-- Dépôt conforme aux règles HACS
-- Icône visible GitHub
-- Prêt pour publication officielle
+## Services HA
+- veichi_ac.start
+- veichi_ac.stop
+- veichi_ac.emergency_stop
+- veichi_ac.ramp_safe
 
-## 👤 Auteur
-SoFarSoGood86
+## Lovelace
+Voir dossier /images
